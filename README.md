@@ -1,6 +1,6 @@
 # shell-script
 What is shell script?
-shell script is like a simple file , in linux and may have any extension 
+shell script is like a simple file in linux and may have any extension ( .txt, .py, .xyz)
 (Some people think that only .sh files can be used for shell script but Its not mandatory. Eventhough Its best practice to assign .sh extention to a shell script)
 
 we can run shell script by to ways 
